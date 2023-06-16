@@ -5,9 +5,9 @@
 ## Credentials
 
 - Admin
-    username: admin
-    password: admin
+    - username: admin
+    - password: admin
 
 - Cashier
-    username: cashier
-    password: cashier
+    - username: cashier
+    - password: cashier
